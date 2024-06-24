@@ -12,7 +12,7 @@ Im a GitHub user that currently learning about Android Development.
 My Biodata
 
  🙋Name     : Fantasy Renald Zhafar
- 🎂Date     : 06, Novembers 2006 (16y.o)
+ 🎂Date     : 05, Novembers
  🕋Religion : Muslims
  🌐Country  : Central Java, Indonesia🇮🇩
  🏆Hobby    : -Reading
